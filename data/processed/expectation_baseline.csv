@@ -1,0 +1,421 @@
+season,team,actual_finish_this_season,prior_season_position,expectation_baseline,source
+0506,Chelsea,1,,,no_prior_data
+0506,Man United,2,,,no_prior_data
+0506,Liverpool,3,,,no_prior_data
+0506,Arsenal,4,,,no_prior_data
+0506,Tottenham,5,,,no_prior_data
+0506,Blackburn,6,,,no_prior_data
+0506,Newcastle,7,,,no_prior_data
+0506,Bolton,8,,,no_prior_data
+0506,West Ham,9,,,no_prior_data
+0506,Wigan,10,,,no_prior_data
+0506,Everton,11,,,no_prior_data
+0506,Fulham,12,,,no_prior_data
+0506,Charlton,13,,,no_prior_data
+0506,Middlesbrough,14,,,no_prior_data
+0506,Man City,15,,,no_prior_data
+0506,Aston Villa,16,,,no_prior_data
+0506,Portsmouth,17,,,no_prior_data
+0506,Birmingham,18,,,no_prior_data
+0506,West Brom,19,,,no_prior_data
+0506,Sunderland,20,,,no_prior_data
+0607,Man United,1,2,2,prior_finish
+0607,Chelsea,2,1,1,prior_finish
+0607,Arsenal,3,4,4,prior_finish
+0607,Liverpool,3,3,3,prior_finish
+0607,Tottenham,5,5,5,prior_finish
+0607,Everton,6,11,11,prior_finish
+0607,Bolton,7,8,8,prior_finish
+0607,Reading,8,,17,promoted_assumed
+0607,Portsmouth,9,17,17,prior_finish
+0607,Blackburn,10,6,6,prior_finish
+0607,Aston Villa,11,16,16,prior_finish
+0607,Middlesbrough,12,14,14,prior_finish
+0607,Newcastle,13,7,7,prior_finish
+0607,Man City,14,15,15,prior_finish
+0607,West Ham,15,9,9,prior_finish
+0607,Fulham,16,12,12,prior_finish
+0607,Sheffield United,17,,17,promoted_assumed
+0607,Wigan,17,10,10,prior_finish
+0607,Charlton,19,13,13,prior_finish
+0607,Watford,20,,17,promoted_assumed
+0708,Man United,1,1,1,prior_finish
+0708,Chelsea,2,2,2,prior_finish
+0708,Arsenal,3,3,3,prior_finish
+0708,Liverpool,4,3,3,prior_finish
+0708,Everton,5,6,6,prior_finish
+0708,Aston Villa,6,11,11,prior_finish
+0708,Blackburn,7,10,10,prior_finish
+0708,Portsmouth,8,9,9,prior_finish
+0708,Man City,9,14,14,prior_finish
+0708,West Ham,10,15,15,prior_finish
+0708,Tottenham,11,5,5,prior_finish
+0708,Newcastle,12,13,13,prior_finish
+0708,Middlesbrough,13,12,12,prior_finish
+0708,Wigan,14,17,17,prior_finish
+0708,Sunderland,15,,17,promoted_assumed
+0708,Bolton,16,7,7,prior_finish
+0708,Reading,17,8,8,prior_finish
+0708,Fulham,17,16,16,prior_finish
+0708,Birmingham,19,,17,promoted_assumed
+0708,Derby,20,,17,promoted_assumed
+0809,Man United,1,1,1,prior_finish
+0809,Liverpool,2,4,4,prior_finish
+0809,Chelsea,3,2,2,prior_finish
+0809,Arsenal,4,3,3,prior_finish
+0809,Everton,5,5,5,prior_finish
+0809,Aston Villa,6,6,6,prior_finish
+0809,Fulham,7,17,17,prior_finish
+0809,West Ham,8,10,10,prior_finish
+0809,Tottenham,8,11,11,prior_finish
+0809,Man City,10,9,9,prior_finish
+0809,Wigan,11,14,14,prior_finish
+0809,Stoke,11,,17,promoted_assumed
+0809,Portsmouth,13,8,8,prior_finish
+0809,Blackburn,13,7,7,prior_finish
+0809,Bolton,13,16,16,prior_finish
+0809,Sunderland,16,15,15,prior_finish
+0809,Hull,17,,17,promoted_assumed
+0809,Newcastle,18,12,12,prior_finish
+0809,West Brom,19,,17,promoted_assumed
+0809,Middlesbrough,19,13,13,prior_finish
+0910,Chelsea,1,3,3,prior_finish
+0910,Man United,2,1,1,prior_finish
+0910,Arsenal,3,4,4,prior_finish
+0910,Tottenham,4,8,8,prior_finish
+0910,Man City,5,10,10,prior_finish
+0910,Aston Villa,6,6,6,prior_finish
+0910,Liverpool,7,2,2,prior_finish
+0910,Everton,8,5,5,prior_finish
+0910,Birmingham,9,,17,promoted_assumed
+0910,Blackburn,9,13,13,prior_finish
+0910,Stoke,11,11,11,prior_finish
+0910,Fulham,12,7,7,prior_finish
+0910,Sunderland,13,16,16,prior_finish
+0910,Bolton,14,13,13,prior_finish
+0910,Wolves,15,,17,promoted_assumed
+0910,Wigan,16,11,11,prior_finish
+0910,West Ham,17,8,8,prior_finish
+0910,Hull,18,17,17,prior_finish
+0910,Burnley,18,,17,promoted_assumed
+0910,Portsmouth,20,13,13,prior_finish
+1011,Man United,1,2,2,prior_finish
+1011,Man City,2,5,5,prior_finish
+1011,Chelsea,2,1,1,prior_finish
+1011,Arsenal,4,3,3,prior_finish
+1011,Tottenham,5,4,4,prior_finish
+1011,Liverpool,6,7,7,prior_finish
+1011,Everton,7,8,8,prior_finish
+1011,Fulham,8,12,12,prior_finish
+1011,Aston Villa,9,6,6,prior_finish
+1011,Sunderland,10,13,13,prior_finish
+1011,West Brom,10,,17,promoted_assumed
+1011,Newcastle,12,,17,promoted_assumed
+1011,Stoke,12,11,11,prior_finish
+1011,Bolton,12,14,14,prior_finish
+1011,Blackburn,15,9,9,prior_finish
+1011,Wigan,16,16,16,prior_finish
+1011,Wolves,17,15,15,prior_finish
+1011,Blackpool,18,,17,promoted_assumed
+1011,Birmingham,18,9,9,prior_finish
+1011,West Ham,20,17,17,prior_finish
+1112,Man United,1,1,1,prior_finish
+1112,Man City,1,2,2,prior_finish
+1112,Arsenal,3,4,4,prior_finish
+1112,Tottenham,4,5,5,prior_finish
+1112,Newcastle,5,12,12,prior_finish
+1112,Chelsea,6,2,2,prior_finish
+1112,Everton,7,7,7,prior_finish
+1112,Liverpool,8,6,6,prior_finish
+1112,Fulham,8,8,8,prior_finish
+1112,West Brom,10,10,10,prior_finish
+1112,Swansea,10,,17,promoted_assumed
+1112,Norwich,10,,17,promoted_assumed
+1112,Sunderland,13,10,10,prior_finish
+1112,Stoke,13,12,12,prior_finish
+1112,Wigan,15,16,16,prior_finish
+1112,Aston Villa,16,9,9,prior_finish
+1112,QPR,17,,17,promoted_assumed
+1112,Bolton,18,12,12,prior_finish
+1112,Blackburn,19,15,15,prior_finish
+1112,Wolves,20,17,17,prior_finish
+1213,Man United,1,1,1,prior_finish
+1213,Man City,2,1,1,prior_finish
+1213,Chelsea,3,6,6,prior_finish
+1213,Arsenal,4,3,3,prior_finish
+1213,Tottenham,5,4,4,prior_finish
+1213,Everton,6,7,7,prior_finish
+1213,Liverpool,7,8,8,prior_finish
+1213,West Brom,8,10,10,prior_finish
+1213,Swansea,9,10,10,prior_finish
+1213,West Ham,9,,17,promoted_assumed
+1213,Norwich,11,10,10,prior_finish
+1213,Fulham,12,8,8,prior_finish
+1213,Stoke,13,13,13,prior_finish
+1213,Aston Villa,14,16,16,prior_finish
+1213,Newcastle,14,5,5,prior_finish
+1213,Southampton,14,,17,promoted_assumed
+1213,Sunderland,17,13,13,prior_finish
+1213,Wigan,18,15,15,prior_finish
+1213,Reading,19,,17,promoted_assumed
+1213,QPR,20,17,17,prior_finish
+1314,Man City,1,2,2,prior_finish
+1314,Liverpool,2,7,7,prior_finish
+1314,Chelsea,3,3,3,prior_finish
+1314,Arsenal,4,4,4,prior_finish
+1314,Everton,5,6,6,prior_finish
+1314,Tottenham,6,5,5,prior_finish
+1314,Man United,7,1,1,prior_finish
+1314,Southampton,8,14,14,prior_finish
+1314,Stoke,9,13,13,prior_finish
+1314,Newcastle,10,14,14,prior_finish
+1314,Crystal Palace,11,,17,promoted_assumed
+1314,Swansea,12,9,9,prior_finish
+1314,West Ham,13,9,9,prior_finish
+1314,Aston Villa,14,14,14,prior_finish
+1314,Sunderland,14,17,17,prior_finish
+1314,Hull,16,,17,promoted_assumed
+1314,West Brom,17,8,8,prior_finish
+1314,Norwich,18,11,11,prior_finish
+1314,Fulham,19,12,12,prior_finish
+1314,Cardiff,20,,17,promoted_assumed
+1415,Chelsea,1,3,3,prior_finish
+1415,Man City,2,1,1,prior_finish
+1415,Arsenal,3,4,4,prior_finish
+1415,Man United,4,7,7,prior_finish
+1415,Tottenham,5,6,6,prior_finish
+1415,Liverpool,6,2,2,prior_finish
+1415,Southampton,7,8,8,prior_finish
+1415,Swansea,8,12,12,prior_finish
+1415,Stoke,9,9,9,prior_finish
+1415,Crystal Palace,10,11,11,prior_finish
+1415,Everton,11,5,5,prior_finish
+1415,West Ham,11,13,13,prior_finish
+1415,West Brom,13,17,17,prior_finish
+1415,Leicester,14,,17,promoted_assumed
+1415,Newcastle,15,10,10,prior_finish
+1415,Aston Villa,16,14,14,prior_finish
+1415,Sunderland,16,14,14,prior_finish
+1415,Hull,18,16,16,prior_finish
+1415,Burnley,19,,17,promoted_assumed
+1415,QPR,20,,17,promoted_assumed
+1516,Leicester,1,14,14,prior_finish
+1516,Arsenal,2,3,3,prior_finish
+1516,Tottenham,3,5,5,prior_finish
+1516,Man City,4,2,2,prior_finish
+1516,Man United,4,4,4,prior_finish
+1516,Southampton,6,7,7,prior_finish
+1516,West Ham,7,11,11,prior_finish
+1516,Liverpool,8,6,6,prior_finish
+1516,Stoke,9,9,9,prior_finish
+1516,Chelsea,10,1,1,prior_finish
+1516,Everton,11,11,11,prior_finish
+1516,Swansea,11,8,8,prior_finish
+1516,Watford,13,,17,promoted_assumed
+1516,West Brom,14,13,13,prior_finish
+1516,Crystal Palace,15,10,10,prior_finish
+1516,Bournemouth,15,,17,promoted_assumed
+1516,Sunderland,17,16,16,prior_finish
+1516,Newcastle,18,15,15,prior_finish
+1516,Norwich,19,,17,promoted_assumed
+1516,Aston Villa,20,16,16,prior_finish
+1617,Chelsea,1,10,10,prior_finish
+1617,Tottenham,2,3,3,prior_finish
+1617,Man City,3,4,4,prior_finish
+1617,Liverpool,4,8,8,prior_finish
+1617,Arsenal,5,2,2,prior_finish
+1617,Man United,6,4,4,prior_finish
+1617,Everton,7,11,11,prior_finish
+1617,Southampton,8,6,6,prior_finish
+1617,Bournemouth,8,15,15,prior_finish
+1617,West Brom,10,14,14,prior_finish
+1617,West Ham,10,7,7,prior_finish
+1617,Stoke,12,9,9,prior_finish
+1617,Leicester,12,1,1,prior_finish
+1617,Swansea,14,11,11,prior_finish
+1617,Crystal Palace,14,15,15,prior_finish
+1617,Watford,16,13,13,prior_finish
+1617,Burnley,16,,17,promoted_assumed
+1617,Hull,18,,17,promoted_assumed
+1617,Middlesbrough,19,,17,promoted_assumed
+1617,Sunderland,20,17,17,prior_finish
+1718,Man City,1,3,3,prior_finish
+1718,Man United,2,6,6,prior_finish
+1718,Tottenham,3,2,2,prior_finish
+1718,Liverpool,4,4,4,prior_finish
+1718,Chelsea,5,1,1,prior_finish
+1718,Arsenal,6,5,5,prior_finish
+1718,Burnley,7,16,16,prior_finish
+1718,Everton,8,7,7,prior_finish
+1718,Leicester,9,12,12,prior_finish
+1718,Newcastle,10,,17,promoted_assumed
+1718,Bournemouth,10,8,8,prior_finish
+1718,Crystal Palace,10,14,14,prior_finish
+1718,West Ham,13,10,10,prior_finish
+1718,Watford,14,16,16,prior_finish
+1718,Brighton,15,,17,promoted_assumed
+1718,Huddersfield,16,,17,promoted_assumed
+1718,Southampton,17,8,8,prior_finish
+1718,Swansea,18,14,14,prior_finish
+1718,Stoke,18,12,12,prior_finish
+1718,West Brom,20,10,10,prior_finish
+1819,Man City,1,1,1,prior_finish
+1819,Liverpool,2,4,4,prior_finish
+1819,Chelsea,3,5,5,prior_finish
+1819,Tottenham,4,3,3,prior_finish
+1819,Arsenal,5,6,6,prior_finish
+1819,Man United,6,2,2,prior_finish
+1819,Wolves,7,,17,promoted_assumed
+1819,Everton,8,8,8,prior_finish
+1819,Leicester,9,9,9,prior_finish
+1819,West Ham,9,13,13,prior_finish
+1819,Watford,11,14,14,prior_finish
+1819,Crystal Palace,12,10,10,prior_finish
+1819,Newcastle,13,10,10,prior_finish
+1819,Bournemouth,13,10,10,prior_finish
+1819,Burnley,15,7,7,prior_finish
+1819,Southampton,16,17,17,prior_finish
+1819,Brighton,17,15,15,prior_finish
+1819,Cardiff,18,,17,promoted_assumed
+1819,Fulham,19,,17,promoted_assumed
+1819,Huddersfield,20,16,16,prior_finish
+1920,Liverpool,1,2,2,prior_finish
+1920,Man City,2,1,1,prior_finish
+1920,Chelsea,3,3,3,prior_finish
+1920,Man United,3,6,6,prior_finish
+1920,Leicester,5,9,9,prior_finish
+1920,Wolves,6,7,7,prior_finish
+1920,Tottenham,6,4,4,prior_finish
+1920,Arsenal,8,5,5,prior_finish
+1920,Sheffield United,9,,17,promoted_assumed
+1920,Burnley,9,15,15,prior_finish
+1920,Southampton,11,16,16,prior_finish
+1920,Everton,12,8,8,prior_finish
+1920,Newcastle,13,13,13,prior_finish
+1920,Crystal Palace,14,12,12,prior_finish
+1920,Brighton,15,17,17,prior_finish
+1920,West Ham,16,9,9,prior_finish
+1920,Aston Villa,17,,17,promoted_assumed
+1920,Bournemouth,18,13,13,prior_finish
+1920,Watford,18,11,11,prior_finish
+1920,Norwich,20,,17,promoted_assumed
+2021,Man City,1,2,2,prior_finish
+2021,Man United,2,3,3,prior_finish
+2021,Liverpool,3,1,1,prior_finish
+2021,Chelsea,4,3,3,prior_finish
+2021,Leicester,5,5,5,prior_finish
+2021,West Ham,6,16,16,prior_finish
+2021,Tottenham,7,6,6,prior_finish
+2021,Arsenal,8,8,8,prior_finish
+2021,Everton,9,12,12,prior_finish
+2021,Leeds,9,,17,promoted_assumed
+2021,Aston Villa,11,17,17,prior_finish
+2021,Newcastle,12,13,13,prior_finish
+2021,Wolves,12,6,6,prior_finish
+2021,Crystal Palace,14,14,14,prior_finish
+2021,Southampton,15,11,11,prior_finish
+2021,Brighton,16,15,15,prior_finish
+2021,Burnley,17,9,9,prior_finish
+2021,Fulham,18,,17,promoted_assumed
+2021,West Brom,19,,17,promoted_assumed
+2021,Sheffield United,20,9,9,prior_finish
+2122,Man City,1,1,1,prior_finish
+2122,Liverpool,2,3,3,prior_finish
+2122,Chelsea,3,4,4,prior_finish
+2122,Tottenham,4,7,7,prior_finish
+2122,Arsenal,5,8,8,prior_finish
+2122,Man United,6,2,2,prior_finish
+2122,West Ham,7,6,6,prior_finish
+2122,Leicester,8,5,5,prior_finish
+2122,Brighton,9,16,16,prior_finish
+2122,Wolves,9,12,12,prior_finish
+2122,Newcastle,11,12,12,prior_finish
+2122,Crystal Palace,12,14,14,prior_finish
+2122,Brentford,13,,17,promoted_assumed
+2122,Aston Villa,14,11,11,prior_finish
+2122,Southampton,15,15,15,prior_finish
+2122,Everton,16,9,9,prior_finish
+2122,Leeds,17,9,9,prior_finish
+2122,Burnley,18,17,17,prior_finish
+2122,Watford,19,,17,promoted_assumed
+2122,Norwich,20,,17,promoted_assumed
+2223,Man City,1,1,1,prior_finish
+2223,Arsenal,2,5,5,prior_finish
+2223,Man United,3,6,6,prior_finish
+2223,Newcastle,4,11,11,prior_finish
+2223,Liverpool,5,2,2,prior_finish
+2223,Brighton,6,9,9,prior_finish
+2223,Aston Villa,7,14,14,prior_finish
+2223,Tottenham,8,4,4,prior_finish
+2223,Brentford,9,13,13,prior_finish
+2223,Fulham,10,,17,promoted_assumed
+2223,Crystal Palace,11,12,12,prior_finish
+2223,Chelsea,12,3,3,prior_finish
+2223,Wolves,13,9,9,prior_finish
+2223,West Ham,14,7,7,prior_finish
+2223,Bournemouth,15,,17,promoted_assumed
+2223,Nott'm Forest,16,,17,promoted_assumed
+2223,Everton,17,16,16,prior_finish
+2223,Leicester,18,8,8,prior_finish
+2223,Leeds,19,17,17,prior_finish
+2223,Southampton,20,15,15,prior_finish
+2324,Man City,1,1,1,prior_finish
+2324,Arsenal,2,2,2,prior_finish
+2324,Liverpool,3,5,5,prior_finish
+2324,Aston Villa,4,7,7,prior_finish
+2324,Tottenham,5,8,8,prior_finish
+2324,Chelsea,6,12,12,prior_finish
+2324,Man United,7,3,3,prior_finish
+2324,Newcastle,7,4,4,prior_finish
+2324,West Ham,9,14,14,prior_finish
+2324,Crystal Palace,10,11,11,prior_finish
+2324,Everton,11,17,17,prior_finish
+2324,Bournemouth,11,15,15,prior_finish
+2324,Brighton,11,6,6,prior_finish
+2324,Fulham,14,10,10,prior_finish
+2324,Wolves,15,13,13,prior_finish
+2324,Brentford,16,9,9,prior_finish
+2324,Nott'm Forest,17,16,16,prior_finish
+2324,Luton,18,,17,promoted_assumed
+2324,Burnley,19,,17,promoted_assumed
+2324,Sheffield United,20,,17,promoted_assumed
+2425,Liverpool,1,3,3,prior_finish
+2425,Arsenal,2,2,2,prior_finish
+2425,Man City,3,1,1,prior_finish
+2425,Chelsea,4,6,6,prior_finish
+2425,Newcastle,5,7,7,prior_finish
+2425,Aston Villa,5,4,4,prior_finish
+2425,Nott'm Forest,7,17,17,prior_finish
+2425,Brighton,8,11,11,prior_finish
+2425,Brentford,9,16,16,prior_finish
+2425,Bournemouth,9,11,11,prior_finish
+2425,Fulham,11,14,14,prior_finish
+2425,Crystal Palace,12,10,10,prior_finish
+2425,Everton,13,11,11,prior_finish
+2425,West Ham,14,9,9,prior_finish
+2425,Man United,15,7,7,prior_finish
+2425,Wolves,15,15,15,prior_finish
+2425,Tottenham,17,5,5,prior_finish
+2425,Leicester,18,,17,promoted_assumed
+2425,Ipswich,19,,17,promoted_assumed
+2425,Southampton,20,,17,promoted_assumed
+2526,Arsenal,1,2,2,prior_finish
+2526,Man City,2,3,3,prior_finish
+2526,Man United,3,15,15,prior_finish
+2526,Aston Villa,4,5,5,prior_finish
+2526,Liverpool,5,1,1,prior_finish
+2526,Bournemouth,6,9,9,prior_finish
+2526,Sunderland,7,,17,promoted_assumed
+2526,Brentford,8,9,9,prior_finish
+2526,Brighton,8,8,8,prior_finish
+2526,Chelsea,10,4,4,prior_finish
+2526,Fulham,10,11,11,prior_finish
+2526,Newcastle,12,5,5,prior_finish
+2526,Everton,12,13,13,prior_finish
+2526,Leeds,14,,17,promoted_assumed
+2526,Crystal Palace,15,12,12,prior_finish
+2526,Nott'm Forest,16,7,7,prior_finish
+2526,Tottenham,17,17,17,prior_finish
+2526,West Ham,18,14,14,prior_finish
+2526,Burnley,19,,17,promoted_assumed
+2526,Wolves,20,15,15,prior_finish
