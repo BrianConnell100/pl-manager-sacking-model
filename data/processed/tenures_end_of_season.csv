@@ -1,0 +1,87 @@
+manager,nationality,club,start_date,end_date,is_incumbent,is_caretaker,duration_days,departure_reason,days_to_next_job,sacked_flag,departure_timing,departure_reason_auto,sacked_flag_auto
+Mauricio Pochettino,Argentina,Southampton,18/01/2013,27/05/2014,0,0,494,,,,end_of_season,end_of_season,0
+Mauricio Pochettino,Argentina,Chelsea,01/07/2023,21/05/2024,0,0,325,,,,end_of_season,end_of_season,0
+Ange Postecoglou,Australia,Tottenham Hotspur,06/06/2023,06/06/2025,0,0,731,,,,end_of_season,end_of_season,0
+Oliver Glasner,Austria,Crystal Palace,19/02/2024,27/05/2026,0,0,829,,,,end_of_season,end_of_season,0
+Vincent Kompany,Belgium,Burnley,14/06/2022,29/05/2024,0,0,715,,,,end_of_season,end_of_season,0
+Manuel Pellegrini,Chile,Manchester City,14/06/2013,30/06/2016,0,0,1112,,,,end_of_season,end_of_season,0
+Thomas Frank,Denmark,Brentford,16/10/2018,12/06/2025,0,0,2431,,,,end_of_season,end_of_season,0
+Steve Bruce,England,Wigan Athletic,26/11/2007,03/06/2009,0,0,555,,,,end_of_season,end_of_season,0
+Tony Mowbray,England,West Bromwich Albion,18/10/2006,16/06/2009,0,0,972,,,,end_of_season,end_of_season,0
+Scott Parker,England,Fulham,28/02/2019,28/06/2021,0,0,851,,,,end_of_season,end_of_season,0
+Gary O'Neil,England,Bournemouth,30/08/2022,19/06/2023,0,0,293,,,,end_of_season,end_of_season,0
+Tim Sherwood,England,Tottenham Hotspur,16/12/2013,13/05/2014,0,0,148,,,,end_of_season,end_of_season,0
+Alan Curbishley,England,Charlton Athletic,24/07/1991,08/05/2006,0,0,5402,,,,end_of_season,end_of_season,0
+Sam Allardyce,England,Leeds United,03/05/2023,02/06/2023,0,0,30,,,,end_of_season,end_of_season,0
+Eddie Howe,England,Bournemouth,12/10/2012,01/08/2020,0,0,2850,,,,end_of_season,end_of_season,0
+Sam Allardyce,England,Sunderland,09/10/2015,22/07/2016,0,0,287,,,,end_of_season,end_of_season,0
+John Carver,England,Newcastle United,02/01/2015,10/06/2015,0,0,159,,,,end_of_season,end_of_season,0
+Sam Allardyce,England,Everton,30/11/2017,16/05/2018,0,0,167,,,,end_of_season,end_of_season,0
+Neil Warnock,England,Sheffield United,02/12/1999,16/05/2007,0,0,2722,,,,end_of_season,end_of_season,0
+Roy Hodgson,England,Fulham,30/12/2007,30/06/2010,0,0,913,,,,end_of_season,end_of_season,0
+Paul Jewell,England,Wigan Athletic,12/06/2001,14/05/2007,0,0,2162,,,,end_of_season,end_of_season,0
+Sam Allardyce,England,Crystal Palace,23/12/2016,23/05/2017,0,0,151,,,,end_of_season,end_of_season,0
+Chris Wilder,England,Sheffield United,05/12/2023,18/06/2025,0,0,561,,,,end_of_season,end_of_season,0
+Stuart Pearce,England,Manchester City,21/03/2005,14/05/2007,0,0,784,,,,end_of_season,end_of_season,0
+Nigel Pearson,England,Leicester City,15/11/2011,30/06/2015,0,0,1323,,,,end_of_season,end_of_season,0
+Terry Connor,England,Wolverhampton Wanderers,24/02/2012,30/06/2012,0,0,127,,,,end_of_season,end_of_season,0
+Dean Smith,England,Leicester City,10/04/2023,16/06/2023,0,0,67,,,,end_of_season,end_of_season,0
+Steve McClaren,England,Middlesbrough,12/06/2001,11/05/2006,0,0,1794,,,,end_of_season,end_of_season,0
+Harry Redknapp,England,Tottenham Hotspur,26/10/2008,13/06/2012,0,0,1326,,,,end_of_season,end_of_season,0
+Roy Hodgson,England,Crystal Palace,12/09/2017,24/05/2021,0,0,1350,,,,end_of_season,end_of_season,0
+Steve Bruce,England,Hull City,08/06/2012,22/07/2016,0,0,1505,,,,end_of_season,end_of_season,0
+Claude Puel,France,Southampton,30/06/2016,14/06/2017,0,0,349,,,,end_of_season,end_of_season,0
+Gérard Houllier,France,Aston Villa,08/09/2010,01/06/2011,0,0,266,,,,end_of_season,end_of_season,0
+Avram Grant,Israel,Portsmouth,26/11/2009,21/05/2010,0,0,176,,,,end_of_season,end_of_season,0
+Avram Grant,Israel,Chelsea,20/09/2007,24/05/2008,0,0,238,,,,end_of_season,end_of_season,0
+Antonio Conte,Italy,Chelsea,03/07/2016,13/07/2018,0,0,740,,,,end_of_season,end_of_season,0
+Gianfranco Zola,Italy,West Ham United,15/09/2008,11/05/2010,0,0,603,,,,end_of_season,end_of_season,0
+Carlo Ancelotti,Italy,Everton,22/12/2019,01/06/2021,0,0,527,,,,end_of_season,end_of_season,0
+Maurizio Sarri,Italy,Chelsea,14/07/2018,16/06/2019,0,0,337,,,,end_of_season,end_of_season,0
+Ronald Koeman,Netherlands,Southampton,16/06/2014,14/06/2016,0,0,729,,,,end_of_season,end_of_season,0
+Arne Slot,Netherlands,Liverpool,01/06/2024,30/05/2026,0,0,728,,,,end_of_season,end_of_season,0
+Louis van Gaal,Netherlands,Manchester United,14/07/2014,23/05/2016,0,0,679,,,,end_of_season,end_of_season,0
+Ruud van Nistelrooy,Netherlands,Leicester City,01/12/2024,27/06/2025,0,0,208,,,,end_of_season,end_of_season,0
+Iain Dowie,Northern Ireland,Crystal Palace,22/12/2003,22/05/2006,0,0,882,,,,end_of_season,end_of_season,0
+Martin O'Neill,Northern Ireland,Aston Villa,05/08/2006,09/08/2010,0,0,1465,,,,end_of_season,end_of_season,0
+Kieran McKenna,Northern Ireland,Ipswich Town,16/12/2021,10/06/2026,0,0,1637,,,,end_of_season,end_of_season,0
+Brendan Rodgers,Northern Ireland,Swansea City,16/07/2010,01/06/2012,0,0,686,,,,end_of_season,end_of_season,0
+Marco Silva,Portugal,Hull City,05/01/2017,25/05/2017,0,0,140,,,,end_of_season,end_of_season,0
+Carlos Carvalhal,Portugal,Swansea City,28/12/2017,18/05/2018,0,0,141,,,,end_of_season,end_of_season,0
+Marco Silva,Portugal,Fulham,01/07/2021,02/06/2026,0,0,1797,,,,end_of_season,end_of_season,0
+Chris Hughton,Republic of Ireland,Brighton & Hove Albion,31/12/2014,13/05/2019,0,0,1594,,,,end_of_season,end_of_season,0
+David O'Leary,Republic of Ireland,Aston Villa,20/05/2003,19/07/2006,0,0,1156,,,,end_of_season,end_of_season,0
+David Moyes,Scotland,Sunderland,23/07/2016,22/05/2017,0,0,303,,,,end_of_season,end_of_season,0
+Alex Ferguson,Scotland,Manchester United,06/11/1986,01/06/2013,0,0,9704,,,,end_of_season,end_of_season,0
+Alex McLeish,Scotland,Aston Villa,17/06/2011,14/05/2012,0,0,332,,,,end_of_season,end_of_season,0
+Kenny Dalglish,Scotland,Liverpool,08/01/2011,16/05/2012,0,0,494,,,,end_of_season,end_of_season,0
+Paul Lambert,Scotland,Stoke City,15/01/2018,18/05/2018,0,0,123,,,,end_of_season,end_of_season,0
+David Moyes,Scotland,Everton,15/03/2002,01/06/2013,0,0,4096,,,,end_of_season,end_of_season,0
+Alex McLeish,Scotland,Birmingham City,28/11/2007,12/06/2011,0,0,1496,,,,end_of_season,end_of_season,0
+Paul Lambert,Scotland,Norwich City,18/08/2009,02/06/2012,0,0,1019,,,,end_of_season,end_of_season,0
+David Moyes,Scotland,West Ham United,07/11/2017,16/05/2018,0,0,190,,,,end_of_season,end_of_season,0
+Julen Lopetegui,Spain,Wolverhampton Wanderers,14/11/2022,08/08/2023,0,0,267,,,,end_of_season,end_of_season,0
+Rafael Benítez,Spain,Newcastle United,11/03/2016,30/06/2019,0,0,1206,,,,end_of_season,end_of_season,0
+Rafael Benítez,Spain,Liverpool,16/06/2004,03/06/2010,0,0,2178,,,,end_of_season,end_of_season,0
+Pepe Mel,Spain,West Bromwich Albion,09/01/2014,12/05/2014,0,0,123,,,,end_of_season,end_of_season,0
+Roberto Martínez,Spain,Wigan Athletic,15/06/2009,28/05/2013,0,0,1443,,,,end_of_season,end_of_season,0
+Sven-Göran Eriksson,Sweden,Manchester City,06/07/2007,02/06/2008,0,0,332,,,,end_of_season,end_of_season,0
+Tony Pulis,Wales,Stoke City,15/06/2006,21/05/2013,0,0,2532,,,,end_of_season,end_of_season,0
+Rob Edwards,Wales,Wolverhampton Wanderers,12/11/2025,11/06/2026,0,0,211,,,,end_of_season,end_of_season,0
+Mark Hughes,Wales,Fulham,29/07/2010,01/06/2011,0,0,307,,,,end_of_season,end_of_season,0
+Mark Hughes,Wales,Blackburn Rovers,15/09/2004,03/06/2008,0,0,1357,,,,end_of_season,end_of_season,0
+Tony Pulis,Wales,Crystal Palace,23/11/2013,14/08/2014,0,0,264,,,,end_of_season,end_of_season,0
+Brian Kidd,England,Manchester City,13/05/2013,14/06/2013,0,1,32,,,,end_of_season,end_of_season,0
+Kevin Ball,England,Sunderland,07/03/2006,31/05/2006,0,1,85,,,,end_of_season,end_of_season,0
+David Unsworth,England,Everton,12/05/2016,14/06/2016,0,1,33,,,,end_of_season,end_of_season,0
+Ryan Mason,England,Tottenham Hotspur,19/04/2021,30/06/2021,0,1,72,,,,end_of_season,end_of_season,0
+Hayden Mullins,England,Watford,19/07/2020,15/08/2020,0,1,27,,,,end_of_season,end_of_season,0
+Ray Lewington,England,Fulham,01/07/2010,29/07/2010,0,1,28,,,,end_of_season,end_of_season,0
+Calum McFarlane,England,Chelsea,22/04/2026,30/06/2026,0,1,69,,,,end_of_season,end_of_season,0
+Kevin Keen,England,West Ham United,15/05/2011,01/06/2011,0,1,17,,,,end_of_season,end_of_season,0
+Paul Heckingbottom,England,Sheffield United,13/03/2021,27/05/2021,0,1,75,,,,end_of_season,end_of_season,0
+Nigel Pearson,England,Newcastle United,06/05/2007,15/05/2007,0,1,9,,,,end_of_season,end_of_season,0
+Steve Agnew,England,Middlesbrough,16/03/2017,09/06/2017,0,1,85,,,,end_of_season,end_of_season,0
+Guus Hiddink,Netherlands,Chelsea,16/02/2009,31/05/2009,0,1,104,,,,end_of_season,end_of_season,0
+Eric Black,Scotland,Aston Villa,29/03/2016,02/06/2016,0,1,65,,,,end_of_season,end_of_season,0
+Rafael Benítez,Spain,Chelsea,21/11/2012,27/05/2013,0,1,187,,,,end_of_season,end_of_season,0

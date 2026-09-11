@@ -1,0 +1,190 @@
+manager,nationality,club,start_date,end_date,is_incumbent,is_caretaker,duration_days,departure_reason,days_to_next_job,sacked_flag,departure_timing
+Arsène Wenger,France,Arsenal,01/10/1996,13/05/2018,0,0,7894,,,,mid_season
+Unai Emery,ESP,Arsenal,23/05/2018,29/11/2019,0,0,555,,,,mid_season
+Paul Lambert,Scotland,Aston Villa,02/06/2012,11/02/2015,0,0,985,,,,mid_season
+Tim Sherwood,England,Aston Villa,14/02/2015,25/10/2015,0,0,253,,,,mid_season
+Rémi Garde,France,Aston Villa,02/11/2015,29/03/2016,0,0,148,,,,mid_season
+Dean Smith,England,Aston Villa,10/10/2018,07/11/2021,0,0,1124,,,,mid_season
+Steven Gerrard,England,Aston Villa,11/11/2021,20/10/2022,0,0,343,,,,mid_season
+Steve Bruce,England,Birmingham City,12/12/2001,23/11/2007,0,0,2172,,,,mid_season
+Paul Ince,England,Blackburn Rovers,22/06/2008,16/12/2008,0,0,177,,,,mid_season
+Sam Allardyce,England,Blackburn Rovers,17/12/2008,13/12/2010,0,0,726,,,,mid_season
+Steve Kean,Scotland,Blackburn Rovers,13/12/2010,28/09/2012,0,0,655,,,,mid_season
+Ian Holloway,England,Blackpool,21/05/2009,03/11/2012,0,0,1262,,,,mid_season
+Sam Allardyce,England,Bolton Wanderers,19/10/1999,29/04/2007,0,0,2749,,,,mid_season
+Sammy Lee,England,Bolton Wanderers,30/04/2007,07/10/2007,0,0,160,,,,mid_season
+Gary Megson,England,Bolton Wanderers,25/10/2007,30/12/2009,0,0,797,,,,mid_season
+Owen Coyle,Republic of Ireland,Bolton Wanderers,08/01/2010,09/10/2012,0,0,1005,,,,mid_season
+Scott Parker,England,Bournemouth,28/06/2021,30/08/2022,0,0,428,,,,mid_season
+Andoni Iraola,Spain,Bournemouth,19/06/2023,24/05/2026,0,0,1070,,,,mid_season
+Graham Potter,England,Brighton & Hove Albion,20/05/2019,08/09/2022,0,0,1207,,,,mid_season
+Roberto De Zerbi,Italy,Brighton & Hove Albion,18/09/2022,19/05/2024,0,0,1381,,,,mid_season
+Owen Coyle,Republic of Ireland,Burnley,27/11/2007,05/01/2010,0,0,770,,,,mid_season
+Brian Laws,England,Burnley,13/01/2010,29/12/2010,0,0,350,,,,mid_season
+Sean Dyche,England,Burnley,30/10/2012,15/04/2022,0,0,3454,,,,mid_season
+Scott Parker,England,Burnley,05/07/2024,30/04/2026,0,0,664,,,,mid_season
+Malky Mackay,Scotland,Cardiff City,17/06/2011,27/12/2013,0,0,924,,,,mid_season
+Ole Gunnar Solskjær,Norway,Cardiff City,02/01/2014,18/09/2014,0,0,259,,,,mid_season
+Neil Warnock,England,Cardiff City,05/10/2016,11/11/2019,0,0,1132,,,,mid_season
+Iain Dowie,Northern Ireland,Charlton Athletic,30/05/2006,13/11/2006,0,0,167,,,,mid_season
+Les Reed,England,Charlton Athletic,14/11/2006,24/12/2006,0,0,40,,,,mid_season
+Alan Pardew,England,Charlton Athletic,24/12/2006,22/11/2008,0,0,699,,,,mid_season
+José Mourinho,Portugal,Chelsea,02/06/2004,20/09/2007,0,0,1205,,,,mid_season
+Luiz Felipe Scolari,Brazil,Chelsea,01/07/2008,09/02/2009,0,0,223,,,,mid_season
+Carlo Ancelotti,Italy,Chelsea,01/07/2009,22/05/2011,0,0,720,,,,mid_season
+André Villas-Boas,Portugal,Chelsea,22/06/2011,04/03/2012,0,0,256,,,,mid_season
+Roberto Di Matteo,Italy,Chelsea,04/03/2012,21/11/2012,0,0,262,,,,mid_season
+José Mourinho,Portugal,Chelsea,03/06/2013,17/12/2015,0,0,927,,,,mid_season
+Frank Lampard,England,Chelsea,04/07/2019,25/01/2021,0,0,571,,,,mid_season
+Thomas Tuchel,Germany,Chelsea,26/01/2021,07/09/2022,0,0,588,,,,mid_season
+Graham Potter,England,Chelsea,08/09/2022,02/04/2023,0,0,206,,,,mid_season
+Enzo Maresca,Italy,Chelsea,01/07/2024,01/01/2026,0,0,549,,,,mid_season
+Liam Rosenior,England,Chelsea,08/01/2026,22/04/2026,0,0,104,,,,mid_season
+Ian Holloway,England,Crystal Palace,03/11/2012,23/10/2013,0,0,354,,,,mid_season
+Neil Warnock,England,Crystal Palace,27/08/2014,27/12/2014,0,0,122,,,,mid_season
+Alan Pardew,England,Crystal Palace,02/01/2015,22/12/2016,0,0,720,,,,mid_season
+Frank de Boer,Netherlands,Crystal Palace,26/06/2017,11/09/2017,0,0,77,,,,mid_season
+Patrick Vieira,France,Crystal Palace,04/07/2021,17/03/2023,0,0,621,,,,mid_season
+Roy Hodgson,England,Crystal Palace,21/03/2023,19/02/2024,0,0,335,,,,mid_season
+Billy Davies,Scotland,Derby County,02/06/2006,26/11/2007,0,0,542,,,,mid_season
+Paul Jewell,England,Derby County,28/11/2007,29/12/2008,0,0,397,,,,mid_season
+Roberto Martínez,Spain,Everton,05/06/2013,12/05/2016,0,0,1072,,,,mid_season
+Ronald Koeman,Netherlands,Everton,14/06/2016,23/10/2017,0,0,496,,,,mid_season
+Marco Silva,Portugal,Everton,31/05/2018,05/12/2019,0,0,553,,,,mid_season
+Rafael Benítez,Spain,Everton,30/06/2021,16/01/2022,0,0,200,,,,mid_season
+Frank Lampard,England,Everton,31/01/2022,23/01/2023,0,0,357,,,,mid_season
+Sean Dyche,England,Everton,30/01/2023,09/01/2025,0,0,710,,,,mid_season
+Chris Coleman,Wales,Fulham,17/04/2003,11/04/2007,0,0,1455,,,,mid_season
+Lawrie Sanchez,Northern Ireland,Fulham,11/04/2007,21/12/2007,0,0,254,,,,mid_season
+Martin Jol,Netherlands,Fulham,07/06/2011,01/12/2013,0,0,908,,,,mid_season
+René Meulensteen,Netherlands,Fulham,01/12/2013,14/02/2014,0,0,75,,,,mid_season
+Felix Magath,Germany,Fulham,14/02/2014,18/09/2014,0,0,216,,,,mid_season
+Slaviša Jokanović,Serbia,Fulham,27/12/2015,14/11/2018,0,0,1052,,,,mid_season
+Claudio Ranieri,Italy,Fulham,14/11/2018,28/02/2019,0,0,106,,,,mid_season
+David Wagner,United States,Huddersfield Town,09/11/2015,14/01/2019,0,0,1162,,,,mid_season
+Jan Siewert,Germany,Huddersfield Town,21/01/2019,16/08/2019,0,0,207,,,,mid_season
+Phil Brown,England,Hull City,04/12/2006,15/03/2010,0,0,1197,,,,mid_season
+Iain Dowie,Northern Ireland,Hull City,17/03/2010,09/05/2010,0,0,53,,,,mid_season
+Mike Phelan,England,Hull City,22/07/2016,03/01/2017,0,0,165,,,,mid_season
+Marcelo Bielsa,Argentina,Leeds United,15/06/2018,27/02/2022,0,0,1353,,,,mid_season
+Jesse Marsch,United States,Leeds United,28/02/2022,06/02/2023,0,0,343,,,,mid_season
+Javi Gracia,Spain,Leeds United,21/02/2023,03/05/2023,0,0,71,,,,mid_season
+Claudio Ranieri,Italy,Leicester City,13/07/2015,23/02/2017,0,0,591,,,,mid_season
+Craig Shakespeare,England,Leicester City,23/02/2017,17/10/2017,0,0,236,,,,mid_season
+Claude Puel,France,Leicester City,25/10/2017,24/02/2019,0,0,487,,,,mid_season
+Brendan Rodgers,Northern Ireland,Leicester City,27/02/2019,02/04/2023,0,0,1495,,,,mid_season
+Steve Cooper,Wales,Leicester City,20/06/2024,24/11/2024,0,0,157,,,,mid_season
+Roy Hodgson,England,Liverpool,01/07/2010,08/01/2011,0,0,191,,,,mid_season
+Brendan Rodgers,Northern Ireland,Liverpool,01/06/2012,04/10/2015,0,0,1220,,,,mid_season
+Jürgen Klopp,Germany,Liverpool,08/10/2015,19/05/2024,0,0,3146,,,,mid_season
+Rob Edwards,Wales,Luton Town,17/11/2022,09/01/2025,0,0,784,,,,mid_season
+Mark Hughes,Wales,Manchester City,04/06/2008,19/12/2009,0,0,563,,,,mid_season
+Roberto Mancini,Italy,Manchester City,19/12/2009,13/05/2013,0,0,1241,,,,mid_season
+Pep Guardiola,Spain,Manchester City,01/07/2016,24/05/2026,0,0,3614,,,,mid_season
+David Moyes,Scotland,Manchester United,01/07/2013,22/04/2014,0,0,325,,,,mid_season
+José Mourinho,Portugal,Manchester United,27/05/2016,18/12/2018,0,0,935,,,,mid_season
+Ole Gunnar Solskjær,Norway,Manchester United,19/12/2018,21/11/2021,0,0,1068,,,,mid_season
+Erik ten Hag,Netherlands,Manchester United,01/06/2022,28/10/2024,0,0,880,,,,mid_season
+Ruben Amorim,Portugal,Manchester United,11/11/2024,05/01/2026,0,0,420,,,,mid_season
+Gareth Southgate,England,Middlesbrough,07/06/2006,20/10/2009,0,0,1231,,,,mid_season
+Aitor Karanka,Spain,Middlesbrough,13/11/2013,16/03/2017,0,0,1219,,,,mid_season
+Graeme Souness,Scotland,Newcastle United,13/09/2004,02/02/2006,0,0,507,,,,mid_season
+Glenn Roeder,England,Newcastle United,02/02/2006,06/05/2007,0,0,458,,,,mid_season
+Sam Allardyce,England,Newcastle United,15/05/2007,09/01/2008,0,0,239,,,,mid_season
+Kevin Keegan,England,Newcastle United,16/01/2008,04/09/2008,0,0,232,,,,mid_season
+Joe Kinnear,Republic of Ireland,Newcastle United,29/09/2008,01/04/2009,0,0,184,,,,mid_season
+Alan Shearer,England,Newcastle United,01/04/2009,24/05/2009,0,0,53,,,,mid_season
+Chris Hughton,Republic of Ireland,Newcastle United,01/06/2009,06/12/2010,0,0,553,,,,mid_season
+Alan Pardew,England,Newcastle United,09/12/2010,02/01/2015,0,0,1484,,,,mid_season
+Steve McClaren,England,Newcastle United,10/06/2015,11/03/2016,0,0,275,,,,mid_season
+Steve Bruce,England,Newcastle United,17/07/2019,20/10/2021,0,0,826,,,,mid_season
+Nigel Worthington,Northern Ireland,Norwich City,04/12/2000,02/10/2006,0,0,2128,,,,mid_season
+Chris Hughton,Republic of Ireland,Norwich City,07/06/2012,06/04/2014,0,0,668,,,,mid_season
+Neil Adams,England,Norwich City,06/04/2014,05/01/2015,0,0,213,,,,mid_season
+Alex Neil,Scotland,Norwich City,09/01/2015,10/03/2017,0,0,791,,,,mid_season
+Daniel Farke,Germany,Norwich City,25/05/2017,06/11/2021,0,0,1626,,,,mid_season
+Dean Smith,England,Norwich City,15/11/2021,27/12/2022,0,0,407,,,,mid_season
+Steve Cooper,Wales,Nottingham Forest,21/09/2021,19/12/2023,0,0,819,,,,mid_season
+Nuno Espírito Santo,Portugal,Nottingham Forest,20/12/2023,09/09/2025,0,0,629,,,,mid_season
+Ange Postecoglou,Australia,Nottingham Forest,09/09/2025,18/10/2025,0,0,39,,,,mid_season
+Sean Dyche,England,Nottingham Forest,21/10/2025,12/02/2026,0,0,114,,,,mid_season
+Alain Perrin,France,Portsmouth,07/04/2005,24/11/2005,0,0,231,,,,mid_season
+Harry Redknapp,England,Portsmouth,07/12/2005,25/10/2008,0,0,1053,,,,mid_season
+Tony Adams,England,Portsmouth,25/10/2008,09/02/2009,0,0,107,,,,mid_season
+Paul Hart,England,Portsmouth,09/02/2009,24/11/2009,0,0,288,,,,mid_season
+Neil Warnock,England,Queens Park Rangers,01/03/2010,08/01/2012,0,0,678,,,,mid_season
+Mark Hughes,Wales,Queens Park Rangers,10/01/2012,23/11/2012,0,0,318,,,,mid_season
+Harry Redknapp,England,Queens Park Rangers,24/11/2012,03/02/2015,0,0,802,,,,mid_season
+Chris Ramsey,England,Queens Park Rangers,03/02/2015,04/11/2015,0,0,274,,,,mid_season
+Steve Coppell,England,Reading,09/10/2003,12/05/2009,0,0,2042,,,,mid_season
+Brian McDermott,England,Reading,17/12/2009,11/03/2013,0,0,1180,,,,mid_season
+Nigel Adkins,England,Reading,26/03/2013,15/12/2014,0,0,629,,,,mid_season
+Chris Wilder,England,Sheffield United,12/05/2016,13/03/2021,0,0,1766,,,,mid_season
+Paul Heckingbottom,England,Sheffield United,25/11/2021,05/12/2023,0,0,740,,,,mid_season
+Harry Redknapp,England,Southampton,08/12/2004,02/12/2005,0,0,359,,,,mid_season
+Nigel Adkins,England,Southampton,12/09/2010,18/01/2013,0,0,859,,,,mid_season
+Mauricio Pellegrino,Argentina,Southampton,23/06/2017,12/03/2018,0,0,262,,,,mid_season
+Mark Hughes,Wales,Southampton,14/03/2018,03/12/2018,0,0,264,,,,mid_season
+Ralph Hasenhüttl,Austria,Southampton,06/12/2018,07/11/2022,0,0,1432,,,,mid_season
+Nathan Jones,Wales,Southampton,10/11/2022,12/02/2023,0,0,94,,,,mid_season
+Rubén Sellés,Spain,Southampton,12/02/2023,28/05/2023,0,0,105,,,,mid_season
+Russell Martin,Scotland,Southampton,21/06/2023,15/12/2024,0,0,543,,,,mid_season
+Ivan Jurić,Croatia,Southampton,23/12/2024,07/04/2025,0,0,105,,,,mid_season
+Mark Hughes,Wales,Stoke City,30/05/2013,06/01/2018,0,0,1682,,,,mid_season
+Mick McCarthy,Republic of Ireland,Sunderland,12/03/2003,06/03/2006,0,0,1090,,,,mid_season
+Roy Keane,Republic of Ireland,Sunderland,30/08/2006,04/12/2008,0,0,827,,,,mid_season
+Ricky Sbragia,Scotland,Sunderland,04/12/2008,24/05/2009,0,0,171,,,,mid_season
+Steve Bruce,England,Sunderland,03/06/2009,30/11/2011,0,0,910,,,,mid_season
+Martin O'Neill,Northern Ireland,Sunderland,03/12/2011,30/03/2013,0,0,483,,,,mid_season
+Paolo Di Canio,Italy,Sunderland,31/03/2013,22/09/2013,0,0,175,,,,mid_season
+Gus Poyet,Uruguay,Sunderland,08/10/2013,16/03/2015,0,0,524,,,,mid_season
+Dick Advocaat,Netherlands,Sunderland,17/03/2015,04/10/2015,0,0,201,,,,mid_season
+Michael Laudrup,Denmark,Swansea City,15/06/2012,04/02/2014,0,0,599,,,,mid_season
+Garry Monk,England,Swansea City,04/02/2014,09/12/2015,0,0,673,,,,mid_season
+Francesco Guidolin,Italy,Swansea City,18/01/2016,03/10/2016,0,0,259,,,,mid_season
+Bob Bradley,United States,Swansea City,03/10/2016,27/12/2016,0,0,85,,,,mid_season
+Paul Clement,England,Swansea City,03/01/2017,20/12/2017,0,0,351,,,,mid_season
+Martin Jol,Netherlands,Tottenham Hotspur,05/11/2004,25/10/2007,0,0,1084,,,,mid_season
+Juande Ramos,Spain,Tottenham Hotspur,27/10/2007,25/10/2008,0,0,364,,,,mid_season
+André Villas-Boas,Portugal,Tottenham Hotspur,06/07/2012,16/12/2013,0,0,528,,,,mid_season
+Mauricio Pochettino,Argentina,Tottenham Hotspur,27/05/2014,19/11/2019,0,0,2002,,,,mid_season
+José Mourinho,Portugal,Tottenham Hotspur,20/11/2019,19/04/2021,0,0,516,,,,mid_season
+Nuno Espírito Santo,Portugal,Tottenham Hotspur,30/06/2021,01/11/2021,0,0,124,,,,mid_season
+Antonio Conte,ITA,Tottenham Hotspur,02/11/2021,26/03/2023,0,0,509,,,,mid_season
+Thomas Frank,Denmark,Tottenham Hotspur,12/06/2025,11/02/2026,0,0,244,,,,mid_season
+Igor Tudor,Croatia,Tottenham Hotspur,14/02/2026,29/03/2026,0,0,43,,,,mid_season
+Aidy Boothroyd,England,Watford,29/03/2005,03/11/2008,0,0,1315,,,,mid_season
+Quique Sánchez Flores,Spain,Watford,05/06/2015,15/05/2016,0,0,345,,,,mid_season
+Walter Mazzarri,Italy,Watford,01/07/2016,21/05/2017,0,0,324,,,,mid_season
+Marco Silva,Portugal,Watford,27/05/2017,21/01/2018,0,0,239,,,,mid_season
+Javi Gracia,Spain,Watford,21/01/2018,07/09/2019,0,0,594,,,,mid_season
+Quique Sánchez Flores,Spain,Watford,07/09/2019,01/12/2019,0,0,85,,,,mid_season
+Nigel Pearson,England,Watford,08/12/2019,19/07/2020,0,0,224,,,,mid_season
+Xisco Muñoz,Spain,Watford,20/12/2020,03/10/2021,0,0,287,,,,mid_season
+Claudio Ranieri,Italy,Watford,04/10/2021,24/01/2022,0,0,112,,,,mid_season
+Roy Hodgson,England,Watford,25/01/2022,22/05/2022,0,0,117,,,,mid_season
+Bryan Robson,England,West Bromwich Albion,09/11/2004,18/09/2006,0,0,678,,,,mid_season
+Roberto Di Matteo,Italy,West Bromwich Albion,30/06/2009,06/02/2011,0,0,586,,,,mid_season
+Roy Hodgson,England,West Bromwich Albion,14/02/2011,13/05/2012,0,0,454,,,,mid_season
+Steve Clarke,Scotland,West Bromwich Albion,08/06/2012,14/12/2013,0,0,554,,,,mid_season
+Alan Irvine,Scotland,West Bromwich Albion,14/06/2014,29/12/2014,0,0,199,,,,mid_season
+Tony Pulis,Wales,West Bromwich Albion,01/01/2015,20/11/2017,0,0,1054,,,,mid_season
+Alan Pardew,England,West Bromwich Albion,29/11/2017,02/04/2018,0,0,124,,,,mid_season
+Darren Moore,Jamaica,West Bromwich Albion,02/04/2018,09/03/2019,0,0,341,,,,mid_season
+Slaven Bilić,Croatia,West Bromwich Albion,13/06/2019,16/12/2020,0,0,552,,,,mid_season
+Sam Allardyce,England,West Bromwich Albion,16/12/2020,23/05/2021,0,0,158,,,,mid_season
+Alan Pardew,England,West Ham United,20/10/2003,11/12/2006,0,0,1148,,,,mid_season
+Alan Curbishley,England,West Ham United,13/12/2006,03/09/2008,0,0,630,,,,mid_season
+Avram Grant,Israel,West Ham United,03/06/2010,15/05/2011,0,0,346,,,,mid_season
+Sam Allardyce,England,West Ham United,01/06/2011,24/05/2015,0,0,1453,,,,mid_season
+Slaven Bilić,Croatia,West Ham United,09/06/2015,06/11/2017,0,0,881,,,,mid_season
+Manuel Pellegrini,Chile,West Ham United,22/05/2018,28/12/2019,0,0,585,,,,mid_season
+David Moyes,Scotland,West Ham United,29/12/2019,19/05/2024,0,0,1603,,,,mid_season
+Julen Lopetegui,Spain,West Ham United,01/07/2024,08/01/2025,0,0,191,,,,mid_season
+Graham Potter,England,West Ham United,09/01/2025,27/09/2025,0,0,261,,,,mid_season
+Chris Hutchings,England,Wigan Athletic,14/05/2007,05/11/2007,0,0,175,,,,mid_season
+Mick McCarthy,Republic of Ireland,Wolverhampton Wanderers,05/08/2006,14/02/2012,0,0,2019,,,,mid_season
+Nuno Espírito Santo,Portugal,Wolverhampton Wanderers,31/05/2017,23/05/2021,0,0,1453,,,,mid_season
+Bruno Lage,Portugal,Wolverhampton Wanderers,09/06/2021,02/10/2022,0,0,480,,,,mid_season
+Gary O'Neil,England,Wolverhampton Wanderers,09/08/2023,15/12/2024,0,0,494,,,,mid_season
+Vítor Pereira,Portugal,Wolverhampton Wanderers,19/12/2024,02/11/2025,0,0,318,,,,mid_season
