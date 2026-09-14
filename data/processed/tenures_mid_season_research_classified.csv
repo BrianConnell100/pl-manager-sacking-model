@@ -1,0 +1,190 @@
+manager,nationality,club,start_date,end_date,is_incumbent,is_caretaker,duration_days,departure_reason,days_to_next_job,sacked_flag,departure_timing,note
+Arsène Wenger,France,Arsenal,01/10/1996,13/05/2018,0,0,7894,"effectively pushed out by hostile fan/results pressure over final seasons, despite mutual-agreement framing",,1,mid_season,user-reviewed: counted as sacking
+Unai Emery,ESP,Arsenal,23/05/2018,29/11/2019,0,0,555,sacked,,1,mid_season,
+Paul Lambert,Scotland,Aston Villa,02/06/2012,11/02/2015,0,0,985,sacked,,1,mid_season,
+Tim Sherwood,England,Aston Villa,14/02/2015,25/10/2015,0,0,253,sacked,,1,mid_season,
+Rémi Garde,France,Aston Villa,02/11/2015,29/03/2016,0,0,148,framed as 'mutual consent' but reporting confirms chairman decided to sack him,,1,mid_season,
+Dean Smith,England,Aston Villa,10/10/2018,07/11/2021,0,0,1124,sacked,,1,mid_season,
+Steven Gerrard,England,Aston Villa,11/11/2021,20/10/2022,0,0,343,sacked,,1,mid_season,
+Steve Bruce,England,Birmingham City,12/12/2001,23/11/2007,0,0,2172,"left to become Wigan Athletic manager (approached/poached, not sacked)",0,0,mid_season,
+Paul Ince,England,Blackburn Rovers,22/06/2008,16/12/2008,0,0,177,sacked,,1,mid_season,
+Sam Allardyce,England,Blackburn Rovers,17/12/2008,13/12/2010,0,0,726,sacked,,1,mid_season,
+Steve Kean,Scotland,Blackburn Rovers,13/12/2010,28/09/2012,0,0,655,resigned under severe/sustained fan pressure; no comparable job for a long period after,,1,mid_season,
+Ian Holloway,England,Blackpool,21/05/2009,03/11/2012,0,0,1262,,,,mid_season,"EXCLUDE: non-PL season tenure (Championship), not relevant - user confirmed"
+Sam Allardyce,England,Bolton Wanderers,19/10/1999,29/04/2007,0,0,2749,"left by mutual consent, appointed Newcastle United within ~2-3 weeks",18,0,mid_season,
+Sammy Lee,England,Bolton Wanderers,30/04/2007,07/10/2007,0,0,160,sacked,,1,mid_season,
+Gary Megson,England,Bolton Wanderers,25/10/2007,30/12/2009,0,0,797,sacked,,1,mid_season,
+Owen Coyle,Republic of Ireland,Bolton Wanderers,08/01/2010,09/10/2012,0,0,1005,sacked,,1,mid_season,
+Scott Parker,England,Bournemouth,28/06/2021,30/08/2022,0,0,428,"sacked (after 9-0 defeat to Liverpool, 4 games into season)",,1,mid_season,
+Andoni Iraola,Spain,Bournemouth,19/06/2023,24/05/2026,0,0,1070,left for Liverpool job after a successful Bournemouth spell (not a sacking),0,0,mid_season,corrected from earlier EXCLUDE tag for consistency - user confirmed not a sacking
+Graham Potter,England,Brighton & Hove Albion,20/05/2019,08/09/2022,0,0,1207,"left to become Chelsea manager (poached, not sacked)",0,0,mid_season,
+Roberto De Zerbi,Italy,Brighton & Hove Albion,18/09/2022,19/05/2024,0,0,1381,left after a successful Brighton tenure amid recruitment disagreements with the board (not a sacking),,0,mid_season,user-reviewed: not counted as sacking
+Owen Coyle,Republic of Ireland,Burnley,27/11/2007,05/01/2010,0,0,770,"left to become Bolton Wanderers manager (poached, not sacked)",0,0,mid_season,
+Brian Laws,England,Burnley,13/01/2010,29/12/2010,0,0,350,sacked,,1,mid_season,
+Sean Dyche,England,Burnley,30/10/2012,15/04/2022,0,0,3454,sacked (amid relegation battle),,1,mid_season,
+Scott Parker,England,Burnley,05/07/2024,30/04/2026,0,0,664,"left by mutual consent immediately after relegation was confirmed - unsuccessful tenure, results-driven exit",,1,mid_season,user-reviewed: counted as sacking given relegation
+Malky Mackay,Scotland,Cardiff City,17/06/2011,27/12/2013,0,0,924,sacked (public feud with owner Vincent Tan),,1,mid_season,
+Ole Gunnar Solskjær,Norway,Cardiff City,02/01/2014,18/09/2014,0,0,259,,,,mid_season,EXCLUDE CANDIDATE: Cardiff relegated from PL end of 2013/14; this Sept 2014 exit occurred during Championship season
+Neil Warnock,England,Cardiff City,05/10/2016,11/11/2019,0,0,1132,,,,mid_season,EXCLUDE CANDIDATE: Cardiff relegated from PL end of 2018/19; this Nov 2019 exit occurred during Championship season
+Iain Dowie,Northern Ireland,Charlton Athletic,30/05/2006,13/11/2006,0,0,167,sacked,,1,mid_season,
+Les Reed,England,Charlton Athletic,14/11/2006,24/12/2006,0,0,40,sacked,,1,mid_season,
+Alan Pardew,England,Charlton Athletic,24/12/2006,22/11/2008,0,0,699,,,,mid_season,EXCLUDE CANDIDATE: Charlton relegated from PL end of 2006/07; this Nov 2008 exit occurred during Championship season
+José Mourinho,Portugal,Chelsea,02/06/2004,20/09/2007,0,0,1205,"left amid boardroom/ownership relationship breakdown (largely political, not performance-driven)",,0,mid_season,"user-reviewed: not counted as sacking (political, not performance)"
+Luiz Felipe Scolari,Brazil,Chelsea,01/07/2008,09/02/2009,0,0,223,sacked,,1,mid_season,
+Carlo Ancelotti,Italy,Chelsea,01/07/2009,22/05/2011,0,0,720,"sacked (dismissed the day after the final match of the season, despite winning the double the year before)",,1,mid_season,"explicit dismissal, not just a mutual/planned exit - boundary edge case but genuinely a sacking"
+André Villas-Boas,Portugal,Chelsea,22/06/2011,04/03/2012,0,0,256,sacked,,1,mid_season,
+Roberto Di Matteo,Italy,Chelsea,04/03/2012,21/11/2012,0,0,262,sacked (despite winning Champions League months earlier),,1,mid_season,
+José Mourinho,Portugal,Chelsea,03/06/2013,17/12/2015,0,0,927,sacked,,1,mid_season,
+Frank Lampard,England,Chelsea,04/07/2019,25/01/2021,0,0,571,sacked,,1,mid_season,
+Thomas Tuchel,Germany,Chelsea,26/01/2021,07/09/2022,0,0,588,sacked,,1,mid_season,
+Graham Potter,England,Chelsea,08/09/2022,02/04/2023,0,0,206,sacked,,1,mid_season,
+Enzo Maresca,Italy,Chelsea,01/07/2024,01/01/2026,0,0,549,sacked (confirmed - club statement announced parting company amid poor run of form and hierarchy tension),,1,mid_season,
+Liam Rosenior,England,Chelsea,08/01/2026,22/04/2026,0,0,104,"sacked (after 5 consecutive PL defeats, just 107 days into tenure)",,1,mid_season,
+Ian Holloway,England,Crystal Palace,03/11/2012,23/10/2013,0,0,354,sacked,,1,mid_season,
+Neil Warnock,England,Crystal Palace,27/08/2014,27/12/2014,0,0,122,sacked,,1,mid_season,
+Alan Pardew,England,Crystal Palace,02/01/2015,22/12/2016,0,0,720,"resigned by mutual consent amid poor form; no comparable job for nearly a year after (West Brom, Nov 2017)",,1,mid_season,
+Frank de Boer,Netherlands,Crystal Palace,26/06/2017,11/09/2017,0,0,77,"sacked (after 4 straight defeats without scoring, one of shortest PL tenures on record)",,1,mid_season,
+Patrick Vieira,France,Crystal Palace,04/07/2021,17/03/2023,0,0,621,sacked,,1,mid_season,
+Roy Hodgson,England,Crystal Palace,21/03/2023,19/02/2024,0,0,335,"stepped down citing health/personal reasons, but coincided with very poor results - results-driven",,1,mid_season,user-reviewed: counted as sacking given poor results
+Billy Davies,Scotland,Derby County,02/06/2006,26/11/2007,0,0,542,sacked,,1,mid_season,
+Paul Jewell,England,Derby County,28/11/2007,29/12/2008,0,0,397,,,,mid_season,EXCLUDE CANDIDATE: Derby relegated from PL end of 2007/08; this Dec 2008 exit occurred during Championship season
+Roberto Martínez,Spain,Everton,05/06/2013,12/05/2016,0,0,1072,sacked (dismissed days after the final match of the season),,1,mid_season,
+Ronald Koeman,Netherlands,Everton,14/06/2016,23/10/2017,0,0,496,sacked,,1,mid_season,
+Marco Silva,Portugal,Everton,31/05/2018,05/12/2019,0,0,553,sacked,,1,mid_season,
+Rafael Benítez,Spain,Everton,30/06/2021,16/01/2022,0,0,200,sacked,,1,mid_season,
+Frank Lampard,England,Everton,31/01/2022,23/01/2023,0,0,357,sacked,,1,mid_season,
+Sean Dyche,England,Everton,30/01/2023,09/01/2025,0,0,710,sacked,,1,mid_season,
+Chris Coleman,Wales,Fulham,17/04/2003,11/04/2007,0,0,1455,"sacked (amid relegation fears, with games still remaining)",,1,mid_season,
+Lawrie Sanchez,Northern Ireland,Fulham,11/04/2007,21/12/2007,0,0,254,sacked,,1,mid_season,
+Martin Jol,Netherlands,Fulham,07/06/2011,01/12/2013,0,0,908,sacked,,1,mid_season,
+René Meulensteen,Netherlands,Fulham,01/12/2013,14/02/2014,0,0,75,sacked,,1,mid_season,
+Felix Magath,Germany,Fulham,14/02/2014,18/09/2014,0,0,216,,,,mid_season,EXCLUDE CANDIDATE: Fulham relegated from PL end of 2013/14; this Sept 2014 exit occurred during Championship season
+Slaviša Jokanović,Serbia,Fulham,27/12/2015,14/11/2018,0,0,1052,sacked,,1,mid_season,
+Claudio Ranieri,Italy,Fulham,14/11/2018,28/02/2019,0,0,106,sacked,,1,mid_season,
+David Wagner,United States,Huddersfield Town,09/11/2015,14/01/2019,0,0,1162,left by mutual consent amid severe relegation trouble - results-driven,,1,mid_season,
+Jan Siewert,Germany,Huddersfield Town,21/01/2019,16/08/2019,0,0,207,,,,mid_season,EXCLUDE CANDIDATE: Huddersfield relegated from PL end of 2018/19; this Aug 2019 exit occurred during Championship season
+Phil Brown,England,Hull City,04/12/2006,15/03/2010,0,0,1197,sacked (amid relegation battle),,1,mid_season,
+Iain Dowie,Northern Ireland,Hull City,17/03/2010,09/05/2010,0,0,53,left as Hull City were relegated - unsuccessful tenure,,1,mid_season,user-reviewed: counted as sacking given relegation
+Mike Phelan,England,Hull City,22/07/2016,03/01/2017,0,0,165,sacked,,1,mid_season,
+Marcelo Bielsa,Argentina,Leeds United,15/06/2018,27/02/2022,0,0,1353,sacked,,1,mid_season,
+Jesse Marsch,United States,Leeds United,28/02/2022,06/02/2023,0,0,343,sacked,,1,mid_season,
+Javi Gracia,Spain,Leeds United,21/02/2023,03/05/2023,0,0,71,"sacked (amid relegation battle, replaced for final games)",,1,mid_season,
+Claudio Ranieri,Italy,Leicester City,13/07/2015,23/02/2017,0,0,591,"sacked (defending champions, sacked less than a year after title win)",,1,mid_season,
+Craig Shakespeare,England,Leicester City,23/02/2017,17/10/2017,0,0,236,sacked,,1,mid_season,
+Claude Puel,France,Leicester City,25/10/2017,24/02/2019,0,0,487,sacked,,1,mid_season,
+Brendan Rodgers,Northern Ireland,Leicester City,27/02/2019,02/04/2023,0,0,1495,sacked,,1,mid_season,
+Steve Cooper,Wales,Leicester City,20/06/2024,24/11/2024,0,0,157,sacked,,1,mid_season,
+Roy Hodgson,England,Liverpool,01/07/2010,08/01/2011,0,0,191,"sacked (very poor form, replaced by Kenny Dalglish)",,1,mid_season,
+Brendan Rodgers,Northern Ireland,Liverpool,01/06/2012,04/10/2015,0,0,1220,sacked,,1,mid_season,
+Jürgen Klopp,Germany,Liverpool,08/10/2015,19/05/2024,0,0,3146,"announced departure months in advance, voluntary decision after a hugely successful tenure - not a sacking",,0,mid_season,
+Rob Edwards,Wales,Luton Town,17/11/2022,09/01/2025,0,0,784,,,,mid_season,EXCLUDE CANDIDATE: Luton relegated from PL end of 2023/24; this Jan 2025 exit occurred during Championship season
+Mark Hughes,Wales,Manchester City,04/06/2008,19/12/2009,0,0,563,"sacked (despite reasonable form, replaced by Mancini)",,1,mid_season,
+Roberto Mancini,Italy,Manchester City,19/12/2009,13/05/2013,0,0,1241,sacked (dismissed days after FA Cup final defeat),,1,mid_season,
+Pep Guardiola,Spain,Manchester City,01/07/2016,24/05/2026,0,0,3614,"left at the end of his contract after a hugely successful tenure - voluntary, not a sacking",,0,mid_season,
+David Moyes,Scotland,Manchester United,01/07/2013,22/04/2014,0,0,325,sacked (with two years still remaining on his six-year contract),,1,mid_season,
+José Mourinho,Portugal,Manchester United,27/05/2016,18/12/2018,0,0,935,sacked,,1,mid_season,
+Ole Gunnar Solskjær,Norway,Manchester United,19/12/2018,21/11/2021,0,0,1068,sacked,,1,mid_season,
+Erik ten Hag,Netherlands,Manchester United,01/06/2022,28/10/2024,0,0,880,sacked,,1,mid_season,
+Ruben Amorim,Portugal,Manchester United,11/11/2024,05/01/2026,0,0,420,"sacked (explicit club statement, framed around results despite some reported tension over transfer policy)",,1,mid_season,
+Gareth Southgate,England,Middlesbrough,07/06/2006,20/10/2009,0,0,1231,,,,mid_season,EXCLUDE CANDIDATE: Middlesbrough relegated from PL end of 2008/09; this Oct 2009 exit occurred during Championship season
+Aitor Karanka,Spain,Middlesbrough,13/11/2013,16/03/2017,0,0,1219,sacked (amid relegation battle),,1,mid_season,
+Graeme Souness,Scotland,Newcastle United,13/09/2004,02/02/2006,0,0,507,sacked,,1,mid_season,
+Glenn Roeder,England,Newcastle United,02/02/2006,06/05/2007,0,0,458,sacked (relieved of duties just before end of season amid poor finish),,1,mid_season,
+Sam Allardyce,England,Newcastle United,15/05/2007,09/01/2008,0,0,239,sacked,,1,mid_season,
+Kevin Keegan,England,Newcastle United,16/01/2008,04/09/2008,0,0,232,"resigned amid a public dispute over boardroom interference in transfer policy - largely political/structural, not performance-driven",,0,mid_season,"user-reviewed: not counted as sacking (political, results were not poor)"
+Joe Kinnear,Republic of Ireland,Newcastle United,29/09/2008,01/04/2009,0,0,184,"stepped down following a heart attack requiring surgery - health emergency, not performance-driven",,0,mid_season,user-reviewed: not counted as sacking (health emergency)
+Alan Shearer,England,Newcastle United,01/04/2009,24/05/2009,0,0,53,short-term caretaker-to-permanent appointment ended with relegation on the final day of the season,,1,mid_season,"user-reviewed: counted as sacking (unsuccessful, relegated)"
+Chris Hughton,Republic of Ireland,Newcastle United,01/06/2009,06/12/2010,0,0,553,sacked (despite having them in the top half after promotion),,1,mid_season,
+Alan Pardew,England,Newcastle United,09/12/2010,02/01/2015,0,0,1484,"left to become Crystal Palace manager (poached, not sacked)",0,0,mid_season,
+Steve McClaren,England,Newcastle United,10/06/2015,11/03/2016,0,0,275,sacked (amid relegation battle),,1,mid_season,
+Steve Bruce,England,Newcastle United,17/07/2019,20/10/2021,0,0,826,sacked (shortly after Saudi-backed takeover),,1,mid_season,
+Nigel Worthington,Northern Ireland,Norwich City,04/12/2000,02/10/2006,0,0,2128,,,,mid_season,EXCLUDE CANDIDATE: Norwich relegated from PL end of 2004/05; this Oct 2006 exit occurred during Championship season
+Chris Hughton,Republic of Ireland,Norwich City,07/06/2012,06/04/2014,0,0,668,"sacked (amid relegation battle, with games remaining)",,1,mid_season,
+Neil Adams,England,Norwich City,06/04/2014,05/01/2015,0,0,213,,,,mid_season,EXCLUDE CANDIDATE: Norwich relegated from PL end of 2013/14; this Jan 2015 exit occurred during Championship season
+Alex Neil,Scotland,Norwich City,09/01/2015,10/03/2017,0,0,791,,,,mid_season,EXCLUDE CANDIDATE: Norwich relegated from PL end of 2015/16; this March 2017 exit occurred during Championship season
+Daniel Farke,Germany,Norwich City,25/05/2017,06/11/2021,0,0,1626,sacked (amid relegation battle),,1,mid_season,
+Dean Smith,England,Norwich City,15/11/2021,27/12/2022,0,0,407,,,,mid_season,EXCLUDE CANDIDATE: Norwich relegated from PL end of 2021/22; this Dec 2022 exit occurred during Championship season
+Steve Cooper,Wales,Nottingham Forest,21/09/2021,19/12/2023,0,0,819,sacked (despite having kept Forest up the previous season),,1,mid_season,
+Nuno Espírito Santo,Portugal,Nottingham Forest,20/12/2023,09/09/2025,0,0,629,sacked (widely criticized decision by owner Marinakis after a breakdown in relationship despite a strong prior season),,1,mid_season,
+Ange Postecoglou,Australia,Nottingham Forest,09/09/2025,18/10/2025,0,0,39,"sacked (after just 39 days, one of the shortest PL tenures on record)",,1,mid_season,
+Sean Dyche,England,Nottingham Forest,21/10/2025,12/02/2026,0,0,114,"sacked (after 114 days, amid relegation battle - third managerial sacking by Forest that season)",,1,mid_season,
+Alain Perrin,France,Portsmouth,07/04/2005,24/11/2005,0,0,231,sacked,,1,mid_season,
+Harry Redknapp,England,Portsmouth,07/12/2005,25/10/2008,0,0,1053,"left to become Tottenham Hotspur manager (poached, not sacked)",0,0,mid_season,
+Tony Adams,England,Portsmouth,25/10/2008,09/02/2009,0,0,107,sacked,,1,mid_season,
+Paul Hart,England,Portsmouth,09/02/2009,24/11/2009,0,0,288,sacked (amid results and severe financial trouble),,1,mid_season,
+Neil Warnock,England,Queens Park Rangers,01/03/2010,08/01/2012,0,0,678,sacked,,1,mid_season,
+Mark Hughes,Wales,Queens Park Rangers,10/01/2012,23/11/2012,0,0,318,sacked,,1,mid_season,
+Harry Redknapp,England,Queens Park Rangers,24/11/2012,03/02/2015,0,0,802,"resigned citing health reasons, with QPR already in the relegation zone at the time",,1,mid_season,"user-reviewed: counted as sacking (poor results, not just health)"
+Chris Ramsey,England,Queens Park Rangers,03/02/2015,04/11/2015,0,0,274,,,,mid_season,EXCLUDE CANDIDATE: QPR relegated from PL end of 2014/15; this Nov 2015 exit occurred during Championship season
+Steve Coppell,England,Reading,09/10/2003,12/05/2009,0,0,2042,,,,mid_season,EXCLUDE CANDIDATE: Reading relegated from PL end of 2007/08; this May 2009 exit occurred during Championship season
+Brian McDermott,England,Reading,17/12/2009,11/03/2013,0,0,1180,sacked (amid relegation battle),,1,mid_season,
+Nigel Adkins,England,Reading,26/03/2013,15/12/2014,0,0,629,,,,mid_season,EXCLUDE CANDIDATE: Reading relegated from PL end of 2012/13; this Dec 2014 exit occurred during Championship season
+Chris Wilder,England,Sheffield United,12/05/2016,13/03/2021,0,0,1766,sacked (amid one of the worst PL seasons on record),,1,mid_season,
+Paul Heckingbottom,England,Sheffield United,25/11/2021,05/12/2023,0,0,740,sacked,,1,mid_season,
+Harry Redknapp,England,Southampton,08/12/2004,02/12/2005,0,0,359,,,,mid_season,EXCLUDE CANDIDATE: Southampton relegated from PL end of 2004/05; this Dec 2005 exit occurred during Championship season
+Nigel Adkins,England,Southampton,12/09/2010,18/01/2013,0,0,859,"sacked (despite having Southampton in a safe mid-table position, replaced by Pochettino)",,1,mid_season,
+Mauricio Pellegrino,Argentina,Southampton,23/06/2017,12/03/2018,0,0,262,sacked (amid relegation battle),,1,mid_season,
+Mark Hughes,Wales,Southampton,14/03/2018,03/12/2018,0,0,264,sacked (poor start to season),,1,mid_season,
+Ralph Hasenhüttl,Austria,Southampton,06/12/2018,07/11/2022,0,0,1432,sacked,,1,mid_season,
+Nathan Jones,Wales,Southampton,10/11/2022,12/02/2023,0,0,94,sacked,,1,mid_season,
+Rubén Sellés,Spain,Southampton,12/02/2023,28/05/2023,0,0,105,"interim appointment ended with the final day of the season, following relegation",,1,mid_season,user-reviewed: counted as sacking (permanent role was a real possibility before results/relegation ended it)
+Russell Martin,Scotland,Southampton,21/06/2023,15/12/2024,0,0,543,sacked,,1,mid_season,
+Ivan Jurić,Croatia,Southampton,23/12/2024,07/04/2025,0,0,105,"sacked (already relegated, historically poor PL season)",,1,mid_season,
+Mark Hughes,Wales,Stoke City,30/05/2013,06/01/2018,0,0,1682,"sacked (amid relegation battle, eventually relegated that season)",,1,mid_season,
+Mick McCarthy,Republic of Ireland,Sunderland,12/03/2003,06/03/2006,0,0,1090,sacked (amid a historically poor relegation season),,1,mid_season,
+Roy Keane,Republic of Ireland,Sunderland,30/08/2006,04/12/2008,0,0,827,resigned suddenly; reporting cites both tension with the board over transfer funds and a poor start to the season,,1,mid_season,user-reviewed: counted as sacking (poor results alongside political tension)
+Ricky Sbragia,Scotland,Sunderland,04/12/2008,24/05/2009,0,0,171,stepped down voluntarily citing family reasons after securing survival - not a sacking,,0,mid_season,
+Steve Bruce,England,Sunderland,03/06/2009,30/11/2011,0,0,910,sacked,,1,mid_season,
+Martin O'Neill,Northern Ireland,Sunderland,03/12/2011,30/03/2013,0,0,483,sacked (poor run of form),,1,mid_season,
+Paolo Di Canio,Italy,Sunderland,31/03/2013,22/09/2013,0,0,175,sacked (dressing room revolt),,1,mid_season,
+Gus Poyet,Uruguay,Sunderland,08/10/2013,16/03/2015,0,0,524,sacked,,1,mid_season,
+Dick Advocaat,Netherlands,Sunderland,17/03/2015,04/10/2015,0,0,201,"resigned by mutual consent after a poor start to the following season, having saved them from relegation the year before - results-driven",,1,mid_season,
+Michael Laudrup,Denmark,Swansea City,15/06/2012,04/02/2014,0,0,599,sacked (despite winning League Cup the previous year),,1,mid_season,
+Garry Monk,England,Swansea City,04/02/2014,09/12/2015,0,0,673,sacked,,1,mid_season,
+Francesco Guidolin,Italy,Swansea City,18/01/2016,03/10/2016,0,0,259,sacked (poor start to season),,1,mid_season,
+Bob Bradley,United States,Swansea City,03/10/2016,27/12/2016,0,0,85,"sacked (very short spell, poor results)",,1,mid_season,
+Paul Clement,England,Swansea City,03/01/2017,20/12/2017,0,0,351,"sacked (amid relegation battle, eventually relegated that season)",,1,mid_season,
+Martin Jol,Netherlands,Tottenham Hotspur,05/11/2004,25/10/2007,0,0,1084,"sacked (the infamous 'car park sacking', dismissed on the eve of a European match)",,1,mid_season,
+Juande Ramos,Spain,Tottenham Hotspur,27/10/2007,25/10/2008,0,0,364,sacked,,1,mid_season,
+André Villas-Boas,Portugal,Tottenham Hotspur,06/07/2012,16/12/2013,0,0,528,sacked (following a heavy 5-0 defeat to Liverpool),,1,mid_season,
+Mauricio Pochettino,Argentina,Tottenham Hotspur,27/05/2014,19/11/2019,0,0,2002,"sacked (poor start to season, despite reaching the Champions League final the previous year)",,1,mid_season,
+José Mourinho,Portugal,Tottenham Hotspur,20/11/2019,19/04/2021,0,0,516,sacked (days before a League Cup final),,1,mid_season,
+Nuno Espírito Santo,Portugal,Tottenham Hotspur,30/06/2021,01/11/2021,0,0,124,sacked (poor start to season),,1,mid_season,
+Antonio Conte,ITA,Tottenham Hotspur,02/11/2021,26/03/2023,0,0,509,"left by mutual consent following a fiery press conference criticizing the club, amid poor results and missed top-4 contention",,1,mid_season,user-reviewed: counted as sacking (poor results relative to expectations)
+Thomas Frank,Denmark,Tottenham Hotspur,12/06/2025,11/02/2026,0,0,244,sacked,,1,mid_season,
+Igor Tudor,Croatia,Tottenham Hotspur,14/02/2026,29/03/2026,0,0,43,"sacked (interim role ended after 7 games/44 days amid relegation battle, framed as mutual agreement)",,1,mid_season,
+Aidy Boothroyd,England,Watford,29/03/2005,03/11/2008,0,0,1315,,,,mid_season,EXCLUDE CANDIDATE: Watford relegated from PL end of 2006/07; this Nov 2008 exit occurred during Championship season
+Quique Sánchez Flores,Spain,Watford,05/06/2015,15/05/2016,0,0,345,"contract not renewed at end of season despite a respectable finish (13th) and FA Cup semi-final - club decision, not clearly results-forced",,1,mid_season,user-reviewed: counted as sacking (poor form/performance in final season)
+Walter Mazzarri,Italy,Watford,01/07/2016,21/05/2017,0,0,324,contract not renewed at end of season following a 17th-place finish,,1,mid_season,user-reviewed: counted as sacking (objectively poor results)
+Marco Silva,Portugal,Watford,27/05/2017,21/01/2018,0,0,239,"sacked (amid reported disharmony after an approach from Everton, framed by the club as results-driven)",,1,mid_season,
+Javi Gracia,Spain,Watford,21/01/2018,07/09/2019,0,0,594,sacked (very poor start to season),,1,mid_season,
+Quique Sánchez Flores,Spain,Watford,07/09/2019,01/12/2019,0,0,85,"sacked (second spell, amid relegation battle)",,1,mid_season,
+Nigel Pearson,England,Watford,08/12/2019,19/07/2020,0,0,224,sacked days before end of season; Watford were relegated on the final day,,1,mid_season,
+Xisco Muñoz,Spain,Watford,20/12/2020,03/10/2021,0,0,287,"sacked (despite a reasonable start, Pozzo family known for ruthless changes)",,1,mid_season,
+Claudio Ranieri,Italy,Watford,04/10/2021,24/01/2022,0,0,112,sacked,,1,mid_season,
+Roy Hodgson,England,Watford,25/01/2022,22/05/2022,0,0,117,short-term appointment to try to rescue them from relegation; Watford were relegated,,1,mid_season,boundary/interim case (end of season) but ended in relegation - consistent with Dowie/Shearer/Selles precedent
+Bryan Robson,England,West Bromwich Albion,09/11/2004,18/09/2006,0,0,678,,,,mid_season,EXCLUDE CANDIDATE: West Brom relegated from PL end of 2005/06; this Sept 2006 exit occurred during Championship season
+Roberto Di Matteo,Italy,West Bromwich Albion,30/06/2009,06/02/2011,0,0,586,sacked,,1,mid_season,
+Roy Hodgson,England,West Bromwich Albion,14/02/2011,13/05/2012,0,0,454,"left to become England national team manager (poached, not sacked) - West Brom finished the season respectably",0,0,mid_season,
+Steve Clarke,Scotland,West Bromwich Albion,08/06/2012,14/12/2013,0,0,554,sacked,,1,mid_season,
+Alan Irvine,Scotland,West Bromwich Albion,14/06/2014,29/12/2014,0,0,199,sacked,,1,mid_season,
+Tony Pulis,Wales,West Bromwich Albion,01/01/2015,20/11/2017,0,0,1054,sacked,,1,mid_season,
+Alan Pardew,England,West Bromwich Albion,29/11/2017,02/04/2018,0,0,124,"sacked (amid relegation battle, eventually relegated)",,1,mid_season,
+Darren Moore,Jamaica,West Bromwich Albion,02/04/2018,09/03/2019,0,0,341,,,,mid_season,EXCLUDE CANDIDATE: West Brom relegated from PL end of 2017/18; this March 2019 exit occurred during Championship season
+Slaven Bilić,Croatia,West Bromwich Albion,13/06/2019,16/12/2020,0,0,552,sacked (eventually relegated that season),,1,mid_season,
+Sam Allardyce,England,West Bromwich Albion,16/12/2020,23/05/2021,0,0,158,short-term rescue appointment; West Brom were relegated,,1,mid_season,boundary/interim case (end of season) but ended in relegation - consistent with established precedent
+Alan Pardew,England,West Ham United,20/10/2003,11/12/2006,0,0,1148,sacked,,1,mid_season,
+Alan Curbishley,England,West Ham United,13/12/2006,03/09/2008,0,0,630,"resigned citing lack of control over transfers (board signed players without his approval) - largely structural/political, West Ham were mid-table at the time",,0,mid_season,"user-reviewed: not counted as sacking (contract control dispute, not results)"
+Avram Grant,Israel,West Ham United,03/06/2010,15/05/2011,0,0,346,West Ham were relegated at the end of the season under him,,1,mid_season,consistent with established relegation precedent
+Sam Allardyce,England,West Ham United,01/06/2011,24/05/2015,0,0,1453,contract not renewed at end of season despite a safe mid-table finish - board reportedly wanted a change in playing style,,1,mid_season,user-reviewed: counted as sacking (continuously declining results)
+Slaven Bilić,Croatia,West Ham United,09/06/2015,06/11/2017,0,0,881,sacked (poor start to season),,1,mid_season,
+Manuel Pellegrini,Chile,West Ham United,22/05/2018,28/12/2019,0,0,585,sacked,,1,mid_season,
+David Moyes,Scotland,West Ham United,29/12/2019,19/05/2024,0,0,1603,contract not renewed at end of season; had won the Europa Conference League the year before but final season in charge was a weaker league finish,,1,mid_season,user-reviewed: counted as sacking (poor results)
+Julen Lopetegui,Spain,West Ham United,01/07/2024,08/01/2025,0,0,191,sacked (poor start to season),,1,mid_season,
+Graham Potter,England,West Ham United,09/01/2025,27/09/2025,0,0,261,sacked (poor start to season),,1,mid_season,
+Chris Hutchings,England,Wigan Athletic,14/05/2007,05/11/2007,0,0,175,sacked (poor start to season),,1,mid_season,
+Mick McCarthy,Republic of Ireland,Wolverhampton Wanderers,05/08/2006,14/02/2012,0,0,2019,sacked (amid relegation battle),,1,mid_season,
+Nuno Espírito Santo,Portugal,Wolverhampton Wanderers,31/05/2017,23/05/2021,0,0,1453,"left by mutual consent after two respectable top-half finishes and a Europa League run, but relationship with the board over recruitment had soured; final season was weaker (13th)",,0,mid_season,"user-reviewed: not counted as sacking (natural end of long contract, club wanted change, not poor results)"
+Bruno Lage,Portugal,Wolverhampton Wanderers,09/06/2021,02/10/2022,0,0,480,sacked (poor start to season),,1,mid_season,
+Gary O'Neil,England,Wolverhampton Wanderers,09/08/2023,15/12/2024,0,0,494,"sacked (poor start to season, despite a respectable survival the year before)",,1,mid_season,
+Vítor Pereira,Portugal,Wolverhampton Wanderers,19/12/2024,02/11/2025,0,0,318,"sacked (winless in first 10 games, six weeks after signing a new 3-year contract)",,1,mid_season,
