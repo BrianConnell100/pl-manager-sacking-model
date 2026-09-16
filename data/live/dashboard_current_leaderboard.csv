@@ -1,0 +1,21 @@
+team,manager,manager_start_date,tenure_days_so_far,points_last_5,league_position_before_match,expectation_baseline,expectation_gap,risk_next_5_matches
+Coventry,Frank Lampard,28/11/2024,657,0,20,17,-3,0.043071407447263566
+Crystal Palace,Pierre Sage,15/06/2026,93,3,16,15,-1,0.038656743946383076
+Leeds,Daniel Farke,04/07/2023,1170,8,3,14,11,0.03660485212108466
+Tottenham,Roberto De Zerbi,31/03/2026,169,2,17,17,0,0.0344579189868488
+Fulham,Alvaro Arbeloa,08/07/2026,70,1,18,10,-8,0.03236854808585343
+Nott'm Forest,Oliver Glasner,06/07/2026,72,5,11,16,5,0.03159774643046276
+Man United,Michael Carrick,13/01/2026,246,4,13,3,-10,0.030298844684155002
+Brighton,Fabian Hurzeler,02/07/2024,806,7,5,8,3,0.028022158858256874
+Liverpool,Andoni Iraola,04/06/2026,104,6,8,5,-3,0.027335634249878837
+Hull,Sergej Jakirovic,11/06/2025,462,8,4,17,13,0.026440029105168406
+Ipswich,Gary O'Neil,23/06/2026,85,6,10,17,7,0.02626313569532246
+Chelsea,Xabi Alonso,01/07/2026,77,7,6,10,4,0.02527320182085102
+Aston Villa,Unai Emery,01/11/2022,1415,1,19,4,-15,0.024863230627541144
+Sunderland,Regis Le Bris,01/07/2024,807,4,14,7,-7,0.02459486905882502
+Bournemouth,Marco Rose,01/06/2026,107,3,15,6,-9,0.01801567624715439
+Newcastle,Matthias Jaissle,05/08/2026,42,5,12,12,0,0.015465898883461171
+Everton,David Moyes,11/01/2025,613,6,8,12,4,0.014059165336811175
+Man City,Enzo Maresca,29/06/2026,79,12,2,2,0,0.011692537202512732
+Brentford,Keith Andrews,27/06/2025,446,6,7,8,1,0.010314017111703544
+Arsenal,Mikel Arteta,22/12/2019,2460,12,1,1,0,0.0
